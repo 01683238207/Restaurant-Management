@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurant Management</string>
+    <string name="table">Enter Table No. (e.g.table1)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Manager_Id">Enter ID</string>
+</resources>
